@@ -1,5 +1,5 @@
 # Bake Shop Cashier
-The Bake Shop Cashier is just a simple cashier of a simple baker.
+The Bake Shop Cashier is a program that can help in the cashier operation of a small baker shop. 
 Using the Cashier: 
 
 Step 1: Check the checkbox that you will avail of.
